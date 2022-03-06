@@ -13,6 +13,5 @@ class Movie {
       required this.d,
       required this.percentage,
       required this.votes,
-      required this.imageURL
-      });
+      required this.imageURL});
 }
